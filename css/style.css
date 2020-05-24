@@ -1,3 +1,28 @@
 body {
     background: #dadada;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+header {
+    margin-top: 50px;
+}
+
+h1 {
+    color: #313131;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: #313131;
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+img {
+    margin-bottom: 20px;
 }
