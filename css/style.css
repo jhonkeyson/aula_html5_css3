@@ -23,6 +23,20 @@ p {
     font-family: sans-serif;
 }
 
-img {
+.img_padrao {
     margin-bottom: 20px;
+    width: 1080px;
+}
+
+.logo {
+    width: 30px;
+}
+
+.img_digital {
+    margin-top: 30px;
+    width: 300px;
+}
+
+.img_logo {
+    width: 150px;
 }
